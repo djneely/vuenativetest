@@ -7,7 +7,7 @@
 </template>
 
 <script>
-import HeaderTest from "./HeaderTest";
+import HeaderTest from "./components/HeaderTest";
 
 export default {
   components: { HeaderTest },
